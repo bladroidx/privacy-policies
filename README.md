@@ -21,6 +21,11 @@ This repository stores the public privacy policy pages for Bladroidx apps and ke
 - Published HTML: [trustmob-check/privacy-policy.html](trustmob-check/privacy-policy.html)
 - Public URL: https://bladroidx.github.io/privacy-policies/trustmob-check/privacy-policy.html
 
+### TrustMob Companion
+
+- Published HTML: [trustmob-legacy/privacy-policy.html](trustmob-legacy/privacy-policy.html)
+- Public URL: https://bladroidx.github.io/privacy-policies/trustmob-legacy/privacy-policy.html
+
 ## GitHub Pages
 
 After the repository is configured, the policy pages are served as static files from GitHub Pages.
